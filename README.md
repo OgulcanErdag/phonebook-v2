@@ -1,3 +1,5 @@
+![Project_002](info.png)
+
 # Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform
 
 ## Description
