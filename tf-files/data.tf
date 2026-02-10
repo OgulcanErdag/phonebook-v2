@@ -37,7 +37,7 @@ data "aws_subnets" "pb-subnets" {
 
   # filter {
   #   name   = "tag:Name"
-  #   values = ["default*"] # our ondia aws account have more than one default VPC for RDS . This block for us.
+  #   values = ["default*"] # my aws account have more than one default VPC for RDS . This block for us.
   # }
 }
 
